@@ -178,7 +178,7 @@ class Atlas {
 
 /*
 // ----------------------------------------------------------------------
-const String GOOGLE_API_KEY = 'AIzaSyDQGuhqhKu1mSdNxAbS_BCP8NfCB1ENmaI';
+const String GOOGLE_API_KEY = '';
 // ----------------------------------------------------------------------
 int zoom = 15;
 String size = '600x1044';
